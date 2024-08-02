@@ -1,6 +1,0 @@
-[INFO ] 2024-07-25 17:40:00,113 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation started ***
-[INFO ] 2024-07-25 17:40:00,200 framework.utils.LogUtils - Excel Path: src/main/resources/spamTestData.xlsx
-[DEBUG] 2024-07-25 17:40:00,486 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-25 17:40:00,492 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[INFO ] 2024-07-25 17:40:01,155 framework.utils.LogUtils - Row: 13 - Column: 2
-[INFO ] 2024-07-25 17:40:01,155 framework.utils.LogUtils - StartRow: 1 - EndRow: 6
