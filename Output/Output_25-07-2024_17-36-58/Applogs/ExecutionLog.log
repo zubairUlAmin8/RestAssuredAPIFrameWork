@@ -1,0 +1,13 @@
+[INFO ] 2024-07-25 17:36:58,195 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation started ***
+[INFO ] 2024-07-25 17:36:58,306 framework.utils.LogUtils - Excel Path: src/main/resources/spamTestData.xlsx
+[DEBUG] 2024-07-25 17:36:58,637 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-25 17:36:58,642 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-07-25 17:36:59,360 framework.utils.LogUtils - Row: 13 - Column: 2
+[INFO ] 2024-07-25 17:36:59,360 framework.utils.LogUtils - StartRow: 1 - EndRow: 6
+[INFO ] 2024-07-25 17:36:59,924 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5b275174
+[INFO ] 2024-07-25 17:37:00,450 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3cb8c8ce
+[INFO ] 2024-07-25 17:37:00,473 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@1317b708
+[INFO ] 2024-07-25 17:37:00,520 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5412bfea
+[INFO ] 2024-07-25 17:37:00,635 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@61c42416
+[INFO ] 2024-07-25 17:37:00,679 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7569ea63
+[INFO ] 2024-07-25 17:37:00,712 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation ending ***

@@ -1,0 +1,20 @@
+[INFO ] 2024-07-26 15:17:13,478 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation started ***
+[INFO ] 2024-07-26 15:17:13,556 framework.utils.LogUtils - Excel Path: src/main/resources/spamTestData.xlsx
+[DEBUG] 2024-07-26 15:17:13,949 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /customXml/_rels/item1.xml.rels
+[DEBUG] 2024-07-26 15:17:14,001 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/tables/_rels/table1.xml.rels
+[DEBUG] 2024-07-26 15:17:14,010 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:17:14,027 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:17:14,043 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:17:14,766 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/connections
+[DEBUG] 2024-07-26 15:17:15,922 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+[DEBUG] 2024-07-26 15:17:15,961 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/queryTable
+[DEBUG] 2024-07-26 15:17:15,962 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+[INFO ] 2024-07-26 15:17:17,077 framework.utils.LogUtils - Row: 13 - Column: 2
+[INFO ] 2024-07-26 15:17:17,078 framework.utils.LogUtils - StartRow: 1 - EndRow: 8
+[INFO ] 2024-07-26 15:17:22,029 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2bc16fe2
+[INFO ] 2024-07-26 15:17:23,000 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5ba184fc
+[INFO ] 2024-07-26 15:17:23,237 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@da22aa
+[INFO ] 2024-07-26 15:17:23,400 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@1cc9bd9b
+[INFO ] 2024-07-26 15:17:23,553 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@782e6b40
+[INFO ] 2024-07-26 15:17:23,754 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@59a94d0f
+[INFO ] 2024-07-26 15:17:23,796 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation ending ***

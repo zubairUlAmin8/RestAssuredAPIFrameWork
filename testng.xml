@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest-API-Testing-Framework">
+    <test name="Testing-Classes">
+        <classes>
+            <class name="testCases.TC_Spam"/>
+<!--            <class name="TC_GetUserByID"/>-->
+<!--            <class name="TC_AddUserAPI"/>-->
+<!--            <class name="TC_ModifyUserAPI"/>-->
+<!--            <class name="TC_DeleteUserAPI"/>-->
+        </classes>
+    </test>
+</suite>

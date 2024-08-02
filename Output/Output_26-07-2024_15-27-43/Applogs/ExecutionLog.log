@@ -1,0 +1,16 @@
+[INFO ] 2024-07-26 15:27:43,859 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation started ***
+[INFO ] 2024-07-26 15:27:44,109 framework.utils.LogUtils - Excel Path: src/main/resources/spamTestData.xlsx
+[DEBUG] 2024-07-26 15:27:44,905 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /customXml/_rels/item1.xml.rels
+[DEBUG] 2024-07-26 15:27:44,931 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/tables/_rels/table1.xml.rels
+[DEBUG] 2024-07-26 15:27:44,933 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-26 15:27:44,946 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-26 15:27:44,959 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-07-26 15:27:44,966 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-26 15:27:45,746 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/connections
+[DEBUG] 2024-07-26 15:27:47,072 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+[DEBUG] 2024-07-26 15:27:47,103 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/queryTable
+[DEBUG] 2024-07-26 15:27:47,105 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-07-26 15:27:47,106 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+[INFO ] 2024-07-26 15:27:48,309 framework.utils.LogUtils - Row: 13 - Column: 2
+[INFO ] 2024-07-26 15:27:48,310 framework.utils.LogUtils - StartRow: 1 - EndRow: 8
+[INFO ] 2024-07-26 15:27:54,666 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation ending ***

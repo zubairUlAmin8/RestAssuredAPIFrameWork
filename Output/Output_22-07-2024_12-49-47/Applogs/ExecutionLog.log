@@ -1,0 +1,3 @@
+[INFO ] 2024-07-22 12:49:47,607 framework.utils.initializers.TestInit - *** Test Suite api-testing-rest-assured-java-framework started ***
+[INFO ] 2024-07-22 12:49:51,245 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7dee835
+[INFO ] 2024-07-22 12:49:51,757 framework.utils.initializers.TestInit - *** Test Suite api-testing-rest-assured-java-framework ending ***

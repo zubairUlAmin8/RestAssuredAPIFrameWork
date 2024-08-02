@@ -1,0 +1,109 @@
+[INFO ] 2024-07-25 19:08:00,462 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation started ***
+[INFO ] 2024-07-25 19:08:00,532 framework.utils.LogUtils - Excel Path: src/main/resources/spamTestData.xlsx
+[DEBUG] 2024-07-25 19:08:00,811 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /customXml/_rels/item1.xml.rels
+[DEBUG] 2024-07-25 19:08:00,835 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/tables/_rels/table1.xml.rels
+[DEBUG] 2024-07-25 19:08:00,837 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-25 19:08:00,844 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-07-25 19:08:00,848 org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-25 19:08:01,457 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/connections
+[DEBUG] 2024-07-25 19:08:02,457 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+[DEBUG] 2024-07-25 19:08:02,477 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/queryTable
+[DEBUG] 2024-07-25 19:08:02,478 org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+[INFO ] 2024-07-25 19:08:03,487 framework.utils.LogUtils - Row: 8221 - Column: 2
+[INFO ] 2024-07-25 19:08:03,487 framework.utils.LogUtils - StartRow: 1 - EndRow: 100
+[INFO ] 2024-07-25 19:08:07,656 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@30afb481
+[INFO ] 2024-07-25 19:08:08,195 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5ca22e19
+[INFO ] 2024-07-25 19:08:08,316 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@75cacb3e
+[INFO ] 2024-07-25 19:08:08,397 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@58f7215c
+[INFO ] 2024-07-25 19:08:08,569 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4ad1a276
+[INFO ] 2024-07-25 19:08:08,663 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3cf4dec7
+[INFO ] 2024-07-25 19:08:08,737 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2404abe2
+[INFO ] 2024-07-25 19:08:08,822 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@105dc04d
+[INFO ] 2024-07-25 19:08:08,975 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@ab327c
+[INFO ] 2024-07-25 19:08:09,102 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3355168
+[INFO ] 2024-07-25 19:08:09,185 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@365bfc5f
+[INFO ] 2024-07-25 19:08:09,312 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@32a033b6
+[INFO ] 2024-07-25 19:08:09,376 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@53ba7997
+[INFO ] 2024-07-25 19:08:09,543 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2a631049
+[INFO ] 2024-07-25 19:08:09,644 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2b1a901d
+[INFO ] 2024-07-25 19:08:09,746 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4ae49387
+[INFO ] 2024-07-25 19:08:09,848 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5a466dd
+[INFO ] 2024-07-25 19:08:09,923 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@66b6873f
+[INFO ] 2024-07-25 19:08:10,022 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@298e002d
+[INFO ] 2024-07-25 19:08:10,081 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2c2a7d53
+[INFO ] 2024-07-25 19:08:10,167 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2211b44f
+[INFO ] 2024-07-25 19:08:10,289 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@29f3185c
+[INFO ] 2024-07-25 19:08:10,374 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@401926df
+[INFO ] 2024-07-25 19:08:10,440 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@6f7a20da
+[INFO ] 2024-07-25 19:08:10,611 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4e8d9bb6
+[INFO ] 2024-07-25 19:08:10,677 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@318e3942
+[INFO ] 2024-07-25 19:08:10,785 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@56b05bd7
+[INFO ] 2024-07-25 19:08:10,872 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3de8f85c
+[INFO ] 2024-07-25 19:08:10,960 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7e1d8d41
+[INFO ] 2024-07-25 19:08:11,242 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@615bad16
+[INFO ] 2024-07-25 19:08:11,306 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@308a9264
+[INFO ] 2024-07-25 19:08:11,360 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@596afb2f
+[INFO ] 2024-07-25 19:08:11,519 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4571cebe
+[INFO ] 2024-07-25 19:08:11,609 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@710afd47
+[INFO ] 2024-07-25 19:08:11,739 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@286a4c52
+[INFO ] 2024-07-25 19:08:11,864 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@e7b0bec
+[INFO ] 2024-07-25 19:08:12,174 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@51de5efa
+[INFO ] 2024-07-25 19:08:12,243 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@39e3ea78
+[INFO ] 2024-07-25 19:08:12,386 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@35329a05
+[INFO ] 2024-07-25 19:08:12,647 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@17003497
+[INFO ] 2024-07-25 19:08:12,683 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@67f591c2
+[INFO ] 2024-07-25 19:08:12,716 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@23ec2bdc
+[INFO ] 2024-07-25 19:08:12,831 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@279c4e3b
+[INFO ] 2024-07-25 19:08:12,883 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@102af1bb
+[INFO ] 2024-07-25 19:08:13,051 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7d126083
+[INFO ] 2024-07-25 19:08:13,114 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@1884e671
+[INFO ] 2024-07-25 19:08:13,154 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@1f60824e
+[INFO ] 2024-07-25 19:08:13,263 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@27dfd12b
+[INFO ] 2024-07-25 19:08:13,352 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@34e25492
+[INFO ] 2024-07-25 19:08:13,423 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7b1c501d
+[INFO ] 2024-07-25 19:08:13,464 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@1aaf46e6
+[INFO ] 2024-07-25 19:08:13,525 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4f581211
+[INFO ] 2024-07-25 19:08:13,626 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@72a34537
+[INFO ] 2024-07-25 19:08:13,761 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3ba46845
+[INFO ] 2024-07-25 19:08:13,845 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@ccd000e
+[INFO ] 2024-07-25 19:08:13,918 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@d4ecdb0
+[INFO ] 2024-07-25 19:08:13,980 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@534d0e20
+[INFO ] 2024-07-25 19:08:14,051 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@42503099
+[INFO ] 2024-07-25 19:08:14,131 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@33a71d23
+[INFO ] 2024-07-25 19:08:14,204 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3ec082a1
+[INFO ] 2024-07-25 19:08:14,305 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4ec427
+[INFO ] 2024-07-25 19:08:14,355 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@3c4059a
+[INFO ] 2024-07-25 19:08:14,416 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2166c48a
+[INFO ] 2024-07-25 19:08:14,474 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4e5d5ac1
+[INFO ] 2024-07-25 19:08:14,544 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2e426dd2
+[INFO ] 2024-07-25 19:08:14,595 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@160c7c42
+[INFO ] 2024-07-25 19:08:14,644 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@54234569
+[INFO ] 2024-07-25 19:08:14,678 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@2ceb68a1
+[INFO ] 2024-07-25 19:08:14,721 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5bb99d1d
+[INFO ] 2024-07-25 19:08:14,767 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@40863800
+[INFO ] 2024-07-25 19:08:14,832 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@6ae42248
+[INFO ] 2024-07-25 19:08:15,033 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@10a0a1e
+[INFO ] 2024-07-25 19:08:15,281 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@e706aa
+[INFO ] 2024-07-25 19:08:15,340 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@52d63b7e
+[INFO ] 2024-07-25 19:08:15,385 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@78e043e4
+[INFO ] 2024-07-25 19:08:15,435 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4cd5fc46
+[INFO ] 2024-07-25 19:08:15,483 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@ca2be53
+[INFO ] 2024-07-25 19:08:15,528 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@718f3088
+[INFO ] 2024-07-25 19:08:15,591 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@681d704e
+[INFO ] 2024-07-25 19:08:15,647 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@39f93225
+[INFO ] 2024-07-25 19:08:15,694 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@1b25d695
+[INFO ] 2024-07-25 19:08:15,735 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@380fdcf2
+[INFO ] 2024-07-25 19:08:15,796 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@30a01dd8
+[INFO ] 2024-07-25 19:08:15,852 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7a730479
+[INFO ] 2024-07-25 19:08:15,889 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@6d35ff7b
+[INFO ] 2024-07-25 19:08:15,975 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@7e3d168e
+[INFO ] 2024-07-25 19:08:16,027 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@23d0944b
+[INFO ] 2024-07-25 19:08:16,069 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@55b62db8
+[INFO ] 2024-07-25 19:08:16,126 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@e5c5e6
+[INFO ] 2024-07-25 19:08:16,236 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@5e6522a6
+[INFO ] 2024-07-25 19:08:16,338 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@4fafd27e
+[INFO ] 2024-07-25 19:08:16,385 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@218f2f51
+[INFO ] 2024-07-25 19:08:16,465 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@20f63ddc
+[INFO ] 2024-07-25 19:08:16,537 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@28e48b65
+[INFO ] 2024-07-25 19:08:16,649 framework.utils.initializers.TestInit - [Ljava.lang.StackTraceElement;@70439c3
+[INFO ] 2024-07-25 19:08:16,702 framework.utils.initializers.TestInit - *** Test Suite SpamApiAutomation ending ***
